@@ -1,7 +1,7 @@
 # Nombre del Proyecto
 
 ## Descripción
-Taller de practica para aprender el flujo de trabajo de gitflow.
+Taller de práctica para aprender el flujo de trabajo de gitflow.
 
 ## Instalación
 1. Clona el repositorio:
