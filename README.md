@@ -1,7 +1,7 @@
 # Nombre del Proyecto
 
 ## Descripción
-Taller de practica para aprender el flujo de trabajo de gitflow.
+Taller de práctica para aprender el flujo de trabajo de gitflow.
 
 ## Instalación
 1. Clona el repositorio:
@@ -23,10 +23,10 @@ Johan Soriano
 
 ## Flujo de trabajo Git
 Este proyecto usa GitFlow:
-- main: rama estable y de producción
-- develop: integración de cambios antes de liberar
+- main: rama estable y de produccion
+- develop: integracion de cambios antes de liberar
 - feature/*: desarrollo de nuevas funcionalidades
-- release/*: preparación y ajuste de versiones
+- release/*: preparacion y ajuste de versiones
 - hotfix/*: correcciones urgentes sobre main
 
 ## Evidencias
