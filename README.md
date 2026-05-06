@@ -4,13 +4,22 @@
 Taller de practica para aprender el flujo de trabajo de gitflow.
 
 ## Instalación
-(Pendiente)
+1. Clona el repositorio:
+    git clone https://github.com/johansoriano63-ux/TallerGitflow.git
+2. Entra a la carpeta:
+   cd TallerGitflow
+3. Instala las dependencias:
+   npm install
 
 ## Uso
-(Pendiente)
+Para ejecutar el proyecto se usa:
+   npm start
+
+Para validar el README:
+   npm run validate:readme
 
 ## Autores
-(Pendiente)
+Johan Soriano
 
 ## Flujo de trabajo Git
 (Pendiente)
