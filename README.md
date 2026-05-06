@@ -22,7 +22,12 @@ Para validar el README:
 Johan Soriano
 
 ## Flujo de trabajo Git
-(Pendiente)
+Este proyecto usa GitFlow:
+- main: rama estable y de producción
+- develop: integración de cambios antes de liberar
+- feature/*: desarrollo de nuevas funcionalidades
+- release/*: preparación y ajuste de versiones
+- hotfix/*: correcciones urgentes sobre main
 
 ## Evidencias
 Repositorio: https://github.com/johansoriano63-ux/TallerGitflow.git
