@@ -25,4 +25,6 @@ Johan Soriano
 (Pendiente)
 
 ## Evidencias
-(Pendiente)
+Repositorio: https://github.com/johansoriano63-ux/TallerGitflow.git
+Pull Request feature/readme-base → develop: https://github.com/johansoriano63-ux/TallerGitflow/pull/5
+Pull Request feature/documentacion-extra → develop: https://github.com/johansoriano63-ux/TallerGitflow/pull/9
