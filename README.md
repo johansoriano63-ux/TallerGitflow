@@ -28,3 +28,5 @@ Johan Soriano
 Repositorio: https://github.com/johansoriano63-ux/TallerGitflow.git
 Pull Request feature/readme-base → develop: https://github.com/johansoriano63-ux/TallerGitflow/pull/5
 Pull Request feature/documentacion-extra → develop: https://github.com/johansoriano63-ux/TallerGitflow/pull/9
+- Issues cerrados: https://github.com/johansoriano63-ux/TallerGitflow/issues
+- Ramas creadas: develop, feature/readme-base, feature/documentacion-extra, release/v1.0.0
